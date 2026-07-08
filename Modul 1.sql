@@ -1,5 +1,5 @@
--- Nama   : cili cahayti
--- NIM	  : 24241077
+-- Nama   : chelvin nirwana
+-- NIM	  : 24241104
 -- Kelas  : C
 -- Modul  : 1
 
